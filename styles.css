@@ -37,7 +37,7 @@ body {
 /* Add styles for the custom button */
 .custom-button {
     display: inline-block;
-    background-image: url('path/to/your/image.jpg'); /* Replace with the path to your square photo */
+    background-image: url('images/wave.jpg'); /* Replace with the path to your square photo */
     background-size: cover;
     width: 150px; /* Set the width of the button */
     height: 150px; /* Set the height of the button */
